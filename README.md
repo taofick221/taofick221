@@ -1,7 +1,7 @@
 ![logo](https://github.com/taofick221/taofick221/blob/main/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Md Taofick</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="http://38.media.tumblr.com/440a34dda29466e0d2896ba982b8e8b6/tumblr_ngy9vsbJna1qav3uso1_500.gif">
+<img align="right" alt="coding" width="500" src="http://38.media.tumblr.com/440a34dda29466e0d2896ba982b8e8b6/tumblr_ngy9vsbJna1qav3uso1_500.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taofick221&label=Profile%20views&color=0e75b6&style=flat" alt="taofick221" /> </p>
 
 - 🌱 I’m currently learning **C,Java**
